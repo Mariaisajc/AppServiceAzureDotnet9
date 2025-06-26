@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppServiceAzureDotnet9")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+987bfb629e533908774c07c7daec0456c95cde9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d356b44d0a4c9e66a74ea5039b73f144457cd0f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppServiceAzureDotnet9")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppServiceAzureDotnet9")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
